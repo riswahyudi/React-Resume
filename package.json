@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://riswahyudi.github.io/React-Resume",
+  "homepage": "https://riswahyudi.github.io/react-resume",
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
